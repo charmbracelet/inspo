@@ -3,6 +3,10 @@
 [Bubbletea](https://github.com/charmbracelet/bubbletea) is a Go framework based on The Elm Architecture. Bubble Tea is well-suited for simple and complex terminal applications, either inline, full-window, or a mix of both.
 
 ## Difficulty: Easy
+[TANGO](https://github.com/Horryportier/TANGO-)
+A japanase tui dictionary using jisho api.
+
+Tui for opening files from anywhere.
 
 [byebye](https://github.com/d1psy-sh/byebye.git)
 
