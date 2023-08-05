@@ -4,7 +4,7 @@
 
 ## Difficulty: Easy
 
-[byebye](https://github.com/d1psy-sh/byebye.git)
+[byebye](https://github.com/nkxxll/byebye.git)
 
 A TUI logout application.
 
