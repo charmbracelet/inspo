@@ -14,4 +14,8 @@ A TUI logout application.
 
 An TUI process viewer that displays open ports per process
 
+[hackertea](https://github.com/KarolosLykos/hackertea)
+
+A TUI for reading Hackernews.
+
 ## Difficulty: Hard
