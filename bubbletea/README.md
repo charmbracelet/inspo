@@ -7,9 +7,17 @@
 
 TUI for opening files from anywhere.
 
+### [Timer](https://github.com/caarlos0/timer)
+Timer is a small CLI, similar to the sleep everyone already knows and love, with a couple of extra features:
+
+- a progress bar indicating the progression of said timer
+- a timer showing how much time is left
+- named timers
+
 [byebye](https://github.com/nkxxll/byebye.git)
 
 A TUI logout application.
+
 
 ## Difficulty: Moderate
 
