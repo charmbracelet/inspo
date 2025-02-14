@@ -5,6 +5,8 @@
 We hope this will help people find inspiration for new Go projects or to get
 ideas on how they can use our libraries.
 
+[Learn More](https://youtu.be/raez6ELTojw)
+
 ## The Concept
 
 This is an entirely community-driven repo for members of the community to share
@@ -30,3 +32,23 @@ A project is considered complete when:
 1. It implements the minimum viable product for the idea
 2. It includes a `README` with screenshots or a GIF describing the
    application's behavior
+
+## Feedback
+
+We’d love to hear your thoughts on this project. Feel free to drop us a note!
+
+* [Twitter](https://twitter.com/charmcli)
+* [The Fediverse](https://mastodon.technology/@charm)
+* [Discord](https://charm.sh/chat)
+
+## License
+
+[MIT](https://github.com/charmbracelet/skate/raw/main/LICENSE)
+
+***
+
+Part of [Charm](https://charm.sh).
+
+<a href="https://charm.sh/"><img alt="The Charm logo" src="https://stuff.charm.sh/charm-badge.jpg" width="400"></a>
+
+Charm热爱开源 • Charm loves open source
