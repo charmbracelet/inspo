@@ -1,5 +1,11 @@
 # Find your next project!
 
+**This project is archived. Share your projects with the charm community in the 
+[Charm & Friends](https://github.com/charm-and-friends/charm-in-the-wild) organization. 
+You can include your project in the list or transfer ownership to the Charm & Friends org.**
+
+***
+
 ## The Goal
 
 We hope this will help people find inspiration for new Go projects or to get
